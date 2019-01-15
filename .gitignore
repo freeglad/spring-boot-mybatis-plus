@@ -1,0 +1,14 @@
+*/.settings
+/target/
+/build/
+/.idea/
+/.gradle/
+*.prefs
+.factorypath
+.springBeans
+.classpath
+.project
+/.metadata/
+*.iml
+*.idea
+*rebel*
